@@ -8,9 +8,8 @@ To install the dependencies for this project, run: npm install
 
 ## Running Tests
 
-npm run wdio
+npm run wdio;
 
-## to open report
+## to open report after execution(run the below cmd after execution only)
 
-after execution, run the below command
-npx allure open
+npx allure open;
